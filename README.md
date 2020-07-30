@@ -8,7 +8,7 @@ In Fall 2015 and 2016, second and third run of the connected courses, we had the
 - [Bernard Knaepen](http://depphys.ulb.ac.be/bknaepen/), Université Libre de Bruxelles, Belgium
 
 
-[**"Practical Numerical Methods with Python"**](http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about) is an open, online course hosted on an independent installation of the [Open edX](http://code.edx.org) software platform for MOOCs.
+[**"Practical Numerical Methods with Python"**](https://openedx.seas.gwu.edu/courses/course-v1:MAE+MAE6286+2017/about) is an open, online course hosted on an independent installation of the [Open edX](http://code.edx.org) software platform for MOOCs.
 The MOOC (massive open online course) was run in 2014 for the first time by Prof. Barba at the George Washington University. At the same time, two other participating instructors ran a local course, for credit at their institution. 
 
 ### The MOOC
@@ -18,6 +18,13 @@ You can register for the MOOC at any time in the [GW Online Open edX](http://ope
 All content is open —really open, i.e., you can use, share, mod, remix— and most is available outside the course platform also (on GitHub and YouTube).
 
 #### Find the list of IPython Notebooks, with links to nbviewer, in the [Wiki](https://github.com/numerical-mooc/numerical-mooc/wiki).
+
+## Getting Started
+
+1. Introduction to the command line: [OS X version](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_01_Intro_to_the_command_line_osx.md); [RedHat version](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_01_Intro_to_the_command_line_redhat.md)
+2. [Installing Jupyter](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_02_Installing_Jupyter.md)
+3. [Introduction to Jupyter notebooks](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_03_Intro_to_Jupyter_notebook.md)
+4. [Introduction to git](https://github.com/numerical-mooc/numerical-mooc/blob/master/lessons/00_getting_started/00_04_Intro_to_git.md)
 
 ## Course Modules
 
@@ -43,6 +50,6 @@ Weak and boundary integral formulation of elliptic partial differential equation
 
 ## Sponsors
 
-The initial deployment of the GW SEAS Open edX instance and the creation of the first course in the platform (Fall 2014) were funded with a seed grant from the GW VP for Online Education and Academic Innovation, TA support from the GW School of Engineering and Applied Scineces, and additional support from Nvidia Corp. Academic Programs and Amazon AWS (donated cloud credits for the first year).
+The initial deployment of the GW SEAS Open edX instance and the creation of the first course in the platform (Fall 2014) were funded with a seed grant from the GW VP for Online Education and Academic Innovation, TA support from the GW School of Engineering and Applied Sciences, and additional support from Nvidia Corp. Academic Programs and Amazon AWS (donated cloud credits for the first year).
 
 
